@@ -88,14 +88,6 @@ I enjoy building production-style backend ecosystems using:
 
 ---
 
-# Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/reski-dev-id/reski-dev-id/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 # Current Focus
 
 - Distributed Systems
