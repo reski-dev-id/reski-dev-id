@@ -99,14 +99,15 @@ I enjoy building production-style backend ecosystems using:
 
 ---
 
-# Connect
+# Connect with me
 
 <p>
   <a href="https://github.com/reski-dev-id">
     <img src="https://img.shields.io/badge/GitHub-reski--dev--id-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://id.linkedin.com/in/reski-id">
+ 
+  <a href="https://id.linkedin.com/in/reski-id" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Reski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
