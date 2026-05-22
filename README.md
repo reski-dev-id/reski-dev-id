@@ -26,10 +26,10 @@ Backend Engineer • Distributed Systems • Event-Driven Architecture
 
 # About Me
 
-Golang Backend engineer focused on building scalable distributed systems, asynchronous processing pipelines, and production-style event-driven architectures.
+Backend Engineer focused on Golang for building scalable distributed systems, asynchronous processing pipelines, and production-style event-driven architectures.
 
 Interested in:
-- Kafka/RabbitMQ -based ecosystems
+- Kafka and RabbitMQ ecosystems
 - Transactional Outbox Pattern
 - High-performance backend services
 - Distributed tracing & observability
@@ -141,6 +141,7 @@ Go • RabbitMQ • Elasticsearch • MySQL • Docker • Zerolog • Swagger
 - Observability & Monitoring
 - Elasticsearch Search Systems
 - Backend Reliability Patterns
+- Grafana & Observability
   
 ---
 
