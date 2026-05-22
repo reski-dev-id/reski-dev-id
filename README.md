@@ -26,7 +26,7 @@ Backend Engineer • Distributed Systems • Event-Driven Architecture
 
 # About Me
 
-Backend engineer focused on building scalable distributed systems, asynchronous processing pipelines, and production-style event-driven architectures.
+Golang Backend engineer focused on building scalable distributed systems, asynchronous processing pipelines, and production-style event-driven architectures.
 
 Interested in:
 - Kafka/RabbitMQ -based ecosystems
