@@ -37,6 +37,8 @@ Interested in:
 - Search systems with Elasticsearch
 - Realtime communication systems
 - Polyglot microservices
+- Clean Architecture
+- Dependency Injection
 
 ---
 
