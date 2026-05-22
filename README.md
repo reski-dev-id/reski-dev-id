@@ -18,12 +18,17 @@
 Backend engineer focused on scalable systems, distributed architecture, and event-driven microservices.
 
 I enjoy building production-style backend ecosystems using:
-- Golang
+- Golang (Gin, Echo, Mux)
 - Spring Boot
 - FastAPI
+- Rabbit MQ
 - Kafka
+- Redis
+- Microservices
+- Rest API
 - gRPC
 - Docker
+- Dependenci Injection
 - Kubernetes
 - Observability Stack
 
@@ -90,12 +95,10 @@ I enjoy building production-style backend ecosystems using:
 # Current Focus
 
 - Distributed Systems
-- Kafka Ecosystem
+- Kafka/Rabbit Ecosystem
 - High Performance Backend Services
 - Scalable Microservices
 - Observability & Monitoring
-- Kubernetes Deployment
-- gRPC Internal Communication
 
 ---
 
