@@ -29,7 +29,7 @@ Backend Engineer • Distributed Systems • Event-Driven Architecture
 Backend engineer focused on building scalable distributed systems, asynchronous processing pipelines, and production-style event-driven architectures.
 
 Interested in:
-- Kafka-based ecosystems
+- Kafka/RabbitMQ -based ecosystems
 - Transactional Outbox Pattern
 - High-performance backend services
 - Distributed tracing & observability
@@ -129,44 +129,6 @@ Go • RabbitMQ • Elasticsearch • MySQL • Docker • Zerolog • Swagger
 - https://github.com/reski-dev-id/content-hub-elastic-rabbitmq
 
 ---
-
-## Social Media Platform Architecture
-
-Distributed social media platform architecture focused on realtime communication, event streaming, and scalable service orchestration.
-
-### Highlights
-
-- WebSocket realtime architecture
-- REST + gRPC communication
-- Kafka event streaming
-- Realtime notification pipeline
-- Feed aggregation architecture
-- Polyglot microservices
-- Scalable backend communication patterns
-
-### Tech Stack
-
-NestJS • Spring Boot • FastAPI • Kafka • PostgreSQL • Socket.IO • Docker
-
----
-
-# Architecture Interests
-
-- Clean Architecture
-- Event-Driven Architecture
-- Transactional Outbox Pattern
-- CQRS
-- Async Processing
-- Distributed Messaging
-- Realtime Systems
-- WebSocket Architecture
-- Polyglot Microservices
-- Distributed Tracing
-- Observability Stack
-- Search Architecture
-
----
-
 # Current Focus
 
 - Distributed Systems Engineering
@@ -177,20 +139,7 @@ NestJS • Spring Boot • FastAPI • Kafka • PostgreSQL • Socket.IO • Do
 - Observability & Monitoring
 - Elasticsearch Search Systems
 - Backend Reliability Patterns
-
----
-
-# Engineering Interests
-
-- Kafka Consumer Idempotency
-- Retry & Dead Letter Queue Strategy
-- Distributed Tracing with OpenTelemetry
-- Eventual Consistency Patterns
-- Search Recommendation Systems
-- Graceful Shutdown Handling
-- Query Optimization
-- Concurrent Processing in Golang
-
+  
 ---
 
 # Connect with Me
