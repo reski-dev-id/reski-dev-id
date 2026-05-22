@@ -1,13 +1,24 @@
 <h1 align="center">Reski</h1>
-<h3 align="center">Backend Engineer • Distributed Systems • Event-Driven Architecture</h3>
+
+<h3 align="center">
+Backend Engineer • Distributed Systems • Event-Driven Architecture
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=reski-dev-id&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/reski-dev-id">
+  <a href="https://github.com/reski-dev-id" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://id.linkedin.com/in/reski-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Reski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:programmer.reski@gmail.com">
+    <img src="https://img.shields.io/badge/Email-programmer.reski%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -15,22 +26,17 @@
 
 # About Me
 
-Backend engineer focused on scalable systems, distributed architecture, and event-driven microservices.
+Backend engineer focused on building scalable distributed systems, asynchronous processing pipelines, and production-style event-driven architectures.
 
-I enjoy building production-style backend ecosystems using:
-- Golang (Gin, Echo, Mux)
-- Spring Boot
-- FastAPI
-- Rabbit MQ
-- Kafka
-- Redis
-- Microservices
-- Rest API
-- gRPC
-- Docker
-- Dependenci Injection
-- Kubernetes
-- Observability Stack
+Interested in:
+- Kafka-based ecosystems
+- Transactional Outbox Pattern
+- High-performance backend services
+- Distributed tracing & observability
+- Async processing architecture
+- Search systems with Elasticsearch
+- Realtime communication systems
+- Polyglot microservices
 
 ---
 
@@ -60,11 +66,87 @@ I enjoy building production-style backend ecosystems using:
   <img src="https://skillicons.dev/icons?i=postgres,mysql,elasticsearch" />
 </p>
 
-## Tools & DevOps
+## Observability & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,prometheus,grafana" />
 </p>
+
+---
+
+# Featured Projects
+
+## Go Kafka Order Ecosystem
+
+Production-style distributed backend ecosystem implementing Event-Driven Architecture using the Transactional Outbox Pattern for reliable asynchronous communication between services.
+
+### Highlights
+
+- Event-driven microservices
+- Transactional Outbox Pattern
+- Kafka-based async communication
+- Polyglot services architecture
+- Kafka consumer retry strategy
+- Dead Letter Queue architecture
+- Idempotent consumer handling
+- Graceful shutdown
+- Distributed tracing foundation
+- Dockerized infrastructure
+
+### Tech Stack
+
+Go • Spring Boot • FastAPI • Kafka • PostgreSQL • Docker • OpenTelemetry • Prometheus • Grafana
+
+### Repository
+
+- https://github.com/reski-dev-id/Go-Kafka-Order-Ecosystem
+
+---
+
+## Content Hub
+
+Production-style content and product catalog platform focused on asynchronous indexing pipelines and scalable search architecture.
+
+### Highlights
+
+- RabbitMQ async event processing
+- Elasticsearch full-text search
+- Fuzzy typo-tolerant search
+- Recommendation search system
+- Transactional Outbox Pattern
+- Structured logging middleware
+- Request ID tracing
+- Swagger/OpenAPI documentation
+- Docker Compose infrastructure
+- GitHub Actions CI/CD
+
+### Tech Stack
+
+Go • RabbitMQ • Elasticsearch • MySQL • Docker • Zerolog • Swagger
+
+### Repository
+
+- https://github.com/reski-dev-id/content-hub-elastic-rabbitmq
+
+---
+
+## Social Media Platform Architecture
+
+Distributed social media platform architecture focused on realtime communication, event streaming, and scalable service orchestration.
+
+### Highlights
+
+- WebSocket realtime architecture
+- REST + gRPC communication
+- Kafka event streaming
+- Realtime notification pipeline
+- Feed aggregation architecture
+- Polyglot microservices
+- Scalable backend communication patterns
+
+### Tech Stack
+
+NestJS • Spring Boot • FastAPI • Kafka • PostgreSQL • Socket.IO • Docker
 
 ---
 
@@ -75,41 +157,49 @@ I enjoy building production-style backend ecosystems using:
 - Transactional Outbox Pattern
 - CQRS
 - Async Processing
-- API Aggregation
+- Distributed Messaging
 - Realtime Systems
 - WebSocket Architecture
 - Polyglot Microservices
 - Distributed Tracing
 - Observability Stack
-
----
-
-# GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reski-dev-id&theme=tokyo-night"/>
-</p>
+- Search Architecture
 
 ---
 
 # Current Focus
 
-- Distributed Systems
-- Kafka/Rabbit Ecosystem
-- High Performance Backend Services
+- Distributed Systems Engineering
+- Kafka & RabbitMQ Ecosystem
+- High-Performance Backend Services
 - Scalable Microservices
+- Async Processing Pipelines
 - Observability & Monitoring
+- Elasticsearch Search Systems
+- Backend Reliability Patterns
 
 ---
 
-# Connect with me
+# Engineering Interests
+
+- Kafka Consumer Idempotency
+- Retry & Dead Letter Queue Strategy
+- Distributed Tracing with OpenTelemetry
+- Eventual Consistency Patterns
+- Search Recommendation Systems
+- Graceful Shutdown Handling
+- Query Optimization
+- Concurrent Processing in Golang
+
+---
+
+# Connect with Me
 
 <p>
-  <a href="https://github.com/reski-dev-id">
+  <a href="https://github.com/reski-dev-id" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-reski--dev--id-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
- 
   <a href="https://id.linkedin.com/in/reski-id" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Reski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
