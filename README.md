@@ -77,32 +77,74 @@ Interested in:
 ---
 
 # Featured Projects
-
 ## Go Kafka Order Ecosystem
 
 Production-style distributed backend ecosystem implementing Event-Driven Architecture using the Transactional Outbox Pattern for reliable asynchronous communication between services.
 
 ### Highlights
 
-- Event-driven microservices
-- Transactional Outbox Pattern
-- Kafka-based async communication
-- Polyglot services architecture
-- Kafka consumer retry strategy
-- Dead Letter Queue architecture
-- Idempotent consumer handling
-- Graceful shutdown
-- Distributed tracing foundation
-- Dockerized infrastructure
+* Event-driven microservices architecture
+* Transactional Outbox Pattern
+* Polyglot microservices (Go, Spring Boot, FastAPI)
+* Kafka-based asynchronous communication
+* Idempotent consumer implementation
+* Processed events tracking
+* Graceful shutdown lifecycle
+* Consumer group management
+* Dockerized infrastructure
+* Swagger / OpenAPI documentation
+* Kafka UI integration
+* Prometheus metrics collection
+* Grafana dashboard monitoring
+* End-to-end observability
+* Health check monitoring
+* Production-style service orchestration
+* GitHub Actions CI/CD
+* DockerHub deployment
+
+### Architecture
+
+```text
+Order Service (Go)
+        ↓
+Transactional Outbox
+        ↓
+Relay Worker (Go)
+        ↓
+Apache Kafka
+        ↓
+Payment Service (Spring Boot)
+        ↓
+payment.completed
+        ↓
+Notification Service (FastAPI)
+```
+
+### Infrastructure
+
+* PostgreSQL
+* Apache Kafka
+* Zookeeper
+* Kafka UI
+* Prometheus
+* Grafana
+* Docker Compose
+
+### Monitoring
+
+* Prometheus Metrics
+* Grafana Dashboards
+* Kafka Monitoring
+* Service Health Monitoring
+* Runtime Metrics Collection
 
 ### Tech Stack
 
-Go • Spring Boot • FastAPI • Kafka • PostgreSQL • Docker • OpenTelemetry • Prometheus • Grafana
+Go • Spring Boot • FastAPI • Kafka • PostgreSQL • Docker • Prometheus • Grafana • Swagger • GitHub Actions
 
 ### Repository
 
-- https://github.com/reski-dev-id/Go-Kafka-Order-Ecosystem
-
+* https://github.com/reski-dev-id/Go-Kafka-Order-Ecosystem
 ---
 
 ## Content Hub
